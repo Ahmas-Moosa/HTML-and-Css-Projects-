@@ -1,0 +1,331 @@
+.zero{
+    display: flex;
+}
+
+.one{
+    background-color: #343a40;
+    height: 440px;
+    width: 800px;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+
+.two{
+    background-color: #1cbbb4;
+    height: 440px;
+    width: 680px;
+}
+
+.im{
+    padding-left: 25px;
+    padding-right: 2px;
+    width: 45px;
+    height: 45px;
+}
+
+.okay{
+    padding-left: 135px;
+    display: flex;
+}
+
+.two img{
+    padding: 42px 0px 0px 115px;
+    width: 370px;
+    height: 370px;
+}
+
+.ko{
+    width: 80px;
+    padding: 10px 35px;
+    height: 23px;
+    border: 1px solid #343a40;
+    font-weight: bold;
+    background-color: #ff4f5a;
+}
+.ko:hover{
+    background-color: #343a40;
+    color: #ff4f5a;
+    border: 1px solid #ff4f5a;
+}
+
+.ok{
+    width: 95px;
+    border: 1px solid;
+    padding: 10px 35px;
+    height: 23px;
+    margin-left: 5px;
+    background-color: #fff;
+    color: #252525;
+}
+.ok:hover{
+    background-color: #343a40;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.ozero{
+    display: flex;
+    margin-top: 150px;
+}
+
+.oone img{
+    width: 450px;
+    height: 420px;
+}
+
+.otwo{
+    font-family: sans-serif;
+}
+
+.otwo p{
+    color: #343a40;
+    line-height: 8px;
+    letter-spacing: 0.5px;
+}
+
+.othree{
+    display: flex;
+}
+
+.op{
+    width: 90px;
+    height: 9px;
+    padding: 18px 35px;
+    border: 1px solid white;
+    background-color: #ff4f5a; 
+    color: #fff !important;
+    margin: 45px 0px 0px 30px;
+}
+.op:hover {
+    background-color: #fff !important;
+    color: #ff4f5a !important;
+    border: 1px solid #ff4f5a !important;
+}
+
+.po{
+    width: 40px;
+    height: 8px;
+    border: 1px solid #343a40;
+    padding: 18px 65px;
+    margin: 45.5px 0px 0px 10px;
+    background-color: #343a40;
+    color: #fff  !important;
+}
+.po:hover{
+    background-color: #fff !important;
+    color: #343a40 !important;
+    border: 1px solid #343a40 !important;
+}
+
+.azero{
+    font-family: sans-serif;
+    height: 600px;
+    color: #fff;
+    background-color: #1cbbb4;
+}
+
+.p{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+    border-bottom: 1px solid;
+    width: 215px;
+    padding-top: 85px;
+    margin: auto;
+}
+
+.aone{
+    display: flex;
+    margin-top: 35px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.ione{
+    width: 100px;
+    height: 100px;
+}
+
+.ionef{
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.itwo{
+    width: 90px;
+    height: 73px;
+}
+.itwof{
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.ithree{
+    width: 94px;
+    height: 52px;
+}
+.ithreef{
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.atwo{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ifour{
+    width: 90px;
+    height: 73px;
+}
+.ifourf{
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.ifive{
+    width: 60px;
+    height: 80px;
+}
+.ifivef{
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.isix{
+    width: 85px;
+    height: 58px;
+}
+.isixf{
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.bzero img{
+    display: block;
+    width: 855px;
+    height: 570px;
+    margin: auto;
+}
+
+.bone .btwo{
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 800;
+    font-size: 32px;
+    letter-spacing: 1px;
+}  
+
+.bfour .bthree{
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: #343a40;
+    font-size: 17px;
+    text-align: center;
+    line-height: 9px;
+}
+
+.bfive{
+    margin: 45px 0px 0px 570px;
+}
+
+.bsix{
+    font-family: sans-serif;
+    font-weight: 600;
+    border: 1px solid;
+    width: 190px;
+    height: 33px;
+    color: #fff;
+    background-color: #ff4f5a;
+    text-align: center;
+    padding-top: 16px;
+}
+.bsix:hover{
+    background-color: #fff;
+    color: #ff4f5a;
+    border: 1px solid #ff4f5a;
+}
+
+.czero{
+    display: flex;
+}
+
+.cone{
+    height: 1000px;
+}
+
+.cthree{
+    font-family: sans-serif;
+    margin-left: 130px;
+}
+
+.ceight{
+    padding-top: 12px;
+    background-color: #1cbbb4;
+    border: 1px solid #1cbbb4;
+    width: 83px;
+    height: 74px;
+    border-radius: 100%;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 130px;
+    padding-left: 3px;
+}
+
+.cten , .ctwelve , .cfourteen{
+    padding-top: 12px;
+    background-color: #343a40;
+    border: 1px solid #343a40;
+    width: 83px;
+    height: 74px;
+    border-radius: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 130px;
+    padding-left: 4px;
+}
+
+.cfour , .cfive , .csix , .cseven{
+    display: flex;
+}
+
+.cnine h1 , .celeven h1, .cthirteen h1{
+    font-family: sans-serif;
+    margin-left: 30px;
+    font-size: 28px;
+    color: #343a40;
+    line-height: 1px;
+}
+
+.cfifteen h1{
+    font-family: sans-serif;
+    margin-left: 30px;
+    font-size: 28px;
+    color: #343a40;
+}
+
+.ctwo img{
+    width: 570px;
+    height: 405px;
+    margin-left: 90px;
+}
+
+.cnine p , .celeven p , .cthirteen p{
+    font-family: sans-serif;
+    margin-left: 30px;
+    color: #ff4f5a;
+    font-size: larger;
+    font-weight: bolder;
+    padding-top: 14px;
+}
+
+.cfifteen p{
+    font-family: sans-serif;
+    margin-left: 30px;
+    color: #ff4f5a;
+    font-size: larger;
+    font-weight: bolder;
+    padding-top: 7.5px;
+    line-height: 1px;    
+}
