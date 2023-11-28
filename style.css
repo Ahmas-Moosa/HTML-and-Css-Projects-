@@ -260,7 +260,7 @@
     margin-left: 130px;
 }
 
-.ceight{
+.ctwelve{
     padding-top: 12px;
     background-color: #1cbbb4;
     border: 1px solid #1cbbb4;
@@ -270,10 +270,10 @@
     margin-top: 20px;
     text-align: center;
     margin-left: 130px;
-    padding-left: 3px;
+    padding-left: 4px;
 }
 
-.cten , .ctwelve , .cfourteen{
+.cten , .ceight , .cfourteen{
     padding-top: 12px;
     background-color: #343a40;
     border: 1px solid #343a40;
